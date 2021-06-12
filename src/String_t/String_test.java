@@ -81,6 +81,8 @@ public class String_test {
 
         System.out.println(m.replaceFirst("$2 $1"));
         System.out.println(m.replaceFirst("$0"));
+        System.out.println(m.replaceFirst("$0"));
+        System.out.println(m.replaceFirst("$0"));
 
 
 
